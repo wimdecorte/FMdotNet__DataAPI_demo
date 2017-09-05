@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+    </startup>
+   <appSettings>
+        <add key="server" value= "your server's DNS name" />
+        <add key="file" value="the_UI"/>
+        <add key="layout_login" value="login_layout"/>
+        <add key="layout_data" value="FRUIT_utility"/>
+        <add key="layout_data_portal" value="CAKE_utility"/>
+        <add key="account" value="rest"/>
+        <add key="password" value="rest"/>
+   </appSettings>
+</configuration>
